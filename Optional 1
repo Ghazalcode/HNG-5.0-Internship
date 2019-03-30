@@ -1,0 +1,8 @@
+If you will be participating in the machine learning part of this internship (very optional), 
+you will need the Anaconda distribution available here: https://www.anaconda.com/distribution/. 
+This install is over 2gb large, so you may want to start downloading it now. Machine Learning is very hard. 
+Do not attempt it if you are not already a developer, as you will just be wasting data. 
+But if you know you are up for it, then please already set up your python environment with Anaconda. 
+Also, please use VSCode, we will use that to make things easy. 
+You can also collaborate with others to get the dependencies. E
+xpect to download over 10gb of stuff to really do ML.
